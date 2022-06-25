@@ -1,0 +1,11 @@
+{
+  "info": {
+    "name": "info",
+    "description": "About the bot.",
+    "options": [{
+      "name": "private",
+      "description": "Only show the reply to you. Default: False.",
+      "type": 5
+    }]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "minesweeper-plus",
+  "version": "0.0",
+  "description": "A fun, open-source Discord bot.",
+  "main": "main.js",
+  "author": "Nandi1205",
+  "license": "Apache-2.0"
+}
